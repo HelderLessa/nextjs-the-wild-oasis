@@ -2,7 +2,7 @@
 
 **The Wild Oasis** is a sleek and modern cabin booking web app where users can log in with their Google account, browse cabins, make reservations, edit or delete them, and manage personal data — all from an elegant and intuitive interface.
 
-![The Wild Oasis Screenshot](public/screenshot_wild_oasis.jpg)
+![The Wild Oasis Screenshot](screenshot_wild_oasis.jpg)
 
 ---
 
